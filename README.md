@@ -14,7 +14,7 @@
 
 ## Credits
 
-This website was created by MOHAMMED.
+These documents were created by MOHAMMED.
 
 ## License
 
