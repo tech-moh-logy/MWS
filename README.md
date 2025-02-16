@@ -1,43 +1,56 @@
-### Mohammed's Writing Samples 
+# Mohammed's Writing Portfolio
 
-## <small>Two-Time Champion in Writing & English (Out of 350+ Participants)</small>
+### **Two-Time Champion in Writing & English (Out of 650+ Participants)**
+## **Technical | Creative | Qualitative Writing**
 
-## Welcome to My Writing Portfolio! Technical + Creative + Qualitative
+---
 
-### Technical Writing
+## **Technical Writing**
 
-#### [UI/UX Design Case Study for Personal Website](https://github.com/tech-moh-logy/UI-UX-Case-Studies/blob/main/Personal-Website/iMohammed%20©%20-%20UI-UX%20Design%20Case%20Study-2.pdf)
-<b>Learn more about the UI/UX redesign skyrocketed interview callbacks by 165%!</b> 
-<br>
-iMohammed is a revolution against generic website templates, offering blazing-fast speed and immersive design in twenty-five hours. Powered by CSS, HTML, and JavaScript, it champions speed and adaptability across platforms, inviting users to unleash their creativity and join the revolution of personal websites.
+### [UI/UX Design Case Study – Personal Website](https://github.com/tech-moh-logy/UI-UX-Case-Studies/blob/main/Personal-Website/iMohammed%20©%20-%20UI-UX%20Design%20Case%20Study-2.pdf)  
+**How a UI/UX Redesign Boosted Interview Callbacks by 165%**  
 
-#### [Research: Comparative Analysis of Gas Expenses and Efficiency | Driver's Choice: Qualitative and Quantitative Analysis](https://github.com/tech-moh-logy/Mohammed-Tiger-Data-Analysis/blob/main/Highlander-Data-Analysis/mohammedTiger.compareHighlanders.dataAnalysis.pdf)
-<b>Learn how to save a whopping $600,000 on gas over four years!</b>
-<br>
-Longtime friends, Ahmed and Hossain, both Uber drivers, found themselves in the same car-buying boat. Their trusty steeds, worn thin by years of rideshare duty, were begging for retirement. The solution? A brand new 2024 Toyota Highlander XLE, a comfortable and spacious option for their passengers. But when it came to engine options, their paths diverged. Ahmed, ever the eco-conscious one, opted for the futuristic allure of the Highlander Hybrid, while Hossain stuck with the tried-and-true non-hybrid version. The price difference? A cool $5,900 (including tax). Now, both men are curious: would Ahmed's hefty investment in hybrid technology pay off in the long run? Only time, and miles driven, would tell.
+*iMohammed* challenges the limitations of generic website templates, delivering a **high-performance, immersive experience** in just **25 hours**. Developed with **HTML, CSS, and JavaScript**, this project prioritizes **speed, usability, and adaptability**—a seamless fusion of function and design.
 
-#### [Mohammed's Wild Haven](https://github.com/tech-moh-logy/Practical-Web-Development/blob/main/assignment-one/MohammedU_ZooTechDoc.pdf)
-Mohammed's Wild Haven is a solo project where Mohammed has meticulously crafted a comprehensive zoo website featuring detailed pages dedicated to animals like lions, monkeys, giraffes, and penguins. With immersive content and intuitive navigation, Mohammed invites visitors on a captivating journey through the wonders of the animal kingdom.
+---
 
-### Creative/Qualitative Writing
-#### [Mohammed’s Qualitative Analysis: Woodhaven - The Misunderstood Gem](https://github.com/tech-moh-logy/MWS/blob/main/mohammedTiger.qualitativeAnalysis.ws.pdf)
-<b><i>"Wow! This analysis is incredibly well-organized and insightful. Your creative presentation style really brought the neighborhood to life. I felt like I was walking the streets while learning about the area's trends. This is fantastic!"</i></b>
-<br>
-For this qualitative research project, I've dedicated significant effort to exploring Woodhaven. Over the course of 10 days, I immersed myself in the area, navigating its streets on foot, and diligently seeking out parking spots. By car, the location is over an hour away from my home under optimal traffic conditions, while using public transportation, particularly the train, extends the commute to nearly two hours.
+### [Fuel Cost & Efficiency: A Statistical & Machine Learning Approach to Driver's Decision-Making | Driver's Choice:  Qualitative and Quantitative Analysis](https://github.com/tech-moh-logy/Mohammed-Tiger-Data-Analysis/blob/main/Highlander-Data-Analysis/mohammedTiger.compareHighlanders.dataAnalysis.pdf)
+**Can a Hybrid Save $900,000 on Fuel in Four Years?**  
 
-#### [Museum of Modern Art](https://github.com/tech-moh-logy/MWS/blob/main/mohammedTiger.MoMA.ws.pdf) 
-<b><i>"Excellent work. A truly fresh and original perspective that blew me away."</i></b>
-<br>
-For Dr. TB, a Researcher at NYU & Smithsonian Institution (focusing on language & material culture) with 12+ years of experience.
+Two Uber drivers, Ahmed and Hossain, invest in a **2024 Toyota Highlander**—one hybrid, one gas-powered. With a **$5,900 price gap**, this analysis dissects their real-world fuel costs, long-term savings, and whether **hybrid technology truly pays off**. This data-driven comparative analysis of gas expenses and efficiency between Non-Hybrid and Hybrid Toyota Highlanders leverages predictive analytics to estimate potential savings. Our model forecasts up to $15,000 in gas cost reductions per driver over a 20-month period post-purchase, leading to an aggregated projected savings of $900,000 across the driver cohort.
 
-## Credits
+---
 
-These documents were created by MOHAMMED.
+## **Creative & Qualitative Writing**
 
-## License
+### [Woodhaven: The Misunderstood Gem](https://github.com/tech-moh-logy/MWS/blob/main/mohammedTiger.qualitativeAnalysis.ws.pdf)  
+*"A compelling and well-organized analysis—felt like walking the streets while reading."*  
 
-This project is licensed under the [MOHAMMED LICENSE](https://github.com/tech-moh-logy/MOHAMMED-License/blob/main/README.md). For more details, see the [LICENSE](https://github.com/tech-moh-logy/MOHAMMED-License/blob/main/README.md) file.
+A **qualitative research project** capturing the **soul and complexity** of Woodhaven. Through **10 days of immersive fieldwork**, this study uncovers the **social, economic, and cultural layers** shaping this unique neighborhood.
 
-<sub>Legal Notice: Any unauthorized use, disclosure, distribution, downloading, forwarding, or printing of this email or its attachments without permission may constitute a violation of intellectual property rights and confidentiality agreements. Legal actions, including but not limited to civil litigation, may be pursued against individuals or entities found in violation of these terms. By accessing, viewing, or using this email, you acknowledge and agree to abide by these restrictions.</sub>
+---
 
-Looking forward to connecting with you!
+### [Museum of Modern Art – A New Perspective](https://github.com/tech-moh-logy/MWS/blob/main/mohammedTiger.MoMA.ws.pdf)  
+*"A fresh and original perspective that redefines how we see modern art."*  
+
+Commissioned for **Dr. TB**, a researcher at **NYU & the Smithsonian Institution**, this analysis explores **art’s evolving role in society**. Through an unconventional lens, it challenges traditional interpretations and sparks new conversations.
+
+---
+
+
+<sub>
+  
+  ### Credits
+  
+  Research conducted by MOHAMMED, unless otherwise specified in the respective document.
+  
+  ### License
+  
+  This project is licensed under the [MOHAMMED LICENSE](https://github.com/tech-moh-logy/MOHAMMED-License/blob/main/README.md). For more details, see the [MOHAMMED LICENSE](https://github.com/tech-moh-logy/MOHAMMED-License/blob/main/README.md) file.
+
+  <br>
+
+  More available on request. Contact me via [LinkedIn](https://www.linkedin.com/in/mohtech/).
+   
+</sub>
+
