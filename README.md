@@ -1,4 +1,4 @@
-# Mohammed's Writing Portfolio
+# UI/UX & Product Design + Case Studies & Writing Samples
 
 ### **Two-Time Champion in Writing & English (Out of 650+ Participants)**
 ## **Technical | Creative | Qualitative Writing**
