@@ -1,4 +1,8 @@
-# UI/UX & Product Design + Case Studies & Writing Samples
+<div align="center">
+  <h1>UI/UX & Product Design | Case Studies & Writing Samples</h1>
+</div>
+
+---
 
 ### **Two-Time Champion in Writing & English (Out of 650+ Participants)**
 ## **Technical | Creative | Qualitative Writing**
