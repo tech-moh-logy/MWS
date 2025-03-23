@@ -1,15 +1,12 @@
 <div align="center">
   <h1>UI/UX & Product Design | Case Studies & Writing Samples</h1>
+  <h3>Technical · Creative · Qualitative Writing</h3>
+  <h5>Two-Time Champion in Writing & English (Out of 650+ Participants)</h5>
 </div>
 
 ---
 
-### **Two-Time Champion in Writing & English (Out of 650+ Participants)**
-## **Technical | Creative | Qualitative Writing**
-
----
-
-## **Technical Writing**
+## **Product Design or UI/UX Design Case Study**
 
 ### [UI/UX Design Case Study – Personal Website](https://github.com/tech-moh-logy/UI-UX-Case-Studies/blob/main/Personal-Website/iMohammed%20©%20-%20UI-UX%20Design%20Case%20Study-2.pdf)  
 **How a UI/UX Redesign Boosted Interview Callbacks by 165%**  
@@ -18,10 +15,12 @@
 
 ---
 
-### [Fuel Cost & Efficiency: A Statistical & Machine Learning Approach to Driver's Decision-Making | Driver's Choice:  Qualitative and Quantitative Analysis](https://github.com/tech-moh-logy/Mohammed-Tiger-Data-Analysis/blob/main/Highlander-Data-Analysis/mohammedTiger.compareHighlanders.dataAnalysis.pdf)
-**Can a Hybrid Save $900,000 on Fuel in Four Years?**  
+## **Technical Writing: Machine Learning and Research**
 
-Two Uber drivers, Ahmed and Hossain, invest in a **2024 Toyota Highlander**—one hybrid, one gas-powered. With a **$5,900 price gap**, this analysis dissects their real-world fuel costs, long-term savings, and whether **hybrid technology truly pays off**. This data-driven comparative analysis of gas expenses and efficiency between Non-Hybrid and Hybrid Toyota Highlanders leverages predictive analytics to estimate potential savings. Our model forecasts up to $15,000 in gas cost reductions per driver over a 20-month period post-purchase, leading to an aggregated projected savings of $900,000 across the driver cohort.
+### [Fuel Cost & Efficiency: A Statistical & Machine Learning Approach to Driver's Decision-Making | Driver's Choice:  Qualitative and Quantitative Analysis](https://github.com/tech-moh-logy/Mohammed-Tiger-Data-Analysis/blob/main/Highlander-Data-Analysis/mohammedTiger.compareHighlanders.dataAnalysis.pdf)
+**Can a Hybrid Save $500,000 on Fuel in Four Years?**  
+
+Two Uber drivers, Ahmed and Hossain, invest in a **2024 Toyota Highlander**—one hybrid, one gas-powered. With a **$5,900 price gap**, this analysis dissects their real-world fuel costs, long-term savings, and whether **hybrid technology truly pays off**. This data-driven comparative analysis of gas expenses and efficiency between Non-Hybrid and Hybrid Toyota Highlanders leverages predictive analytics to estimate potential savings. Our model forecasts up to $15,000 in gas cost reductions per driver over a 20-month period post-purchase, leading to an aggregated projected savings of $500,000 across the driver cohort.
 
 ---
 
