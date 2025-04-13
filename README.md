@@ -1,17 +1,26 @@
 <div align="center">
-  <h1>UI/UX & Product Design | Case Studies & Writing Samples</h1>
+  <h1>UI/UX & Product Design | UX Research, Case Studies, and Writing Samples (Qualitative + Technical)</h1>
   <h3>Technical · Creative · Qualitative Writing</h3>
-  <h5>Two-Time Champion in Writing & English (Out of 650+ Participants)</h5>
+  <h4>Two-Time Champion (Out of 390+)</h4>
 </div>
+
+## Contents
+1. [UI/UX Design Case Study – Personal Website](#): Boosted Interview Callbacks by 175%
+2. [End-to-End Machine Learning Project in Python](#): Real Estate Price Prediction with XGBoost, Data Engineering, and Model Optimization
+3. [Project Not Uploaded Yet](#)
+4. [Project Not Uploaded Yet](#)
 
 ---
 
 ## **Product Design or UI/UX Design Case Study**
 
 ### [UI/UX Design Case Study – Personal Website](https://github.com/tech-moh-logy/UI-UX-Case-Studies/blob/main/Personal-Website/iMohammed%20©%20-%20UI-UX%20Design%20Case%20Study-2.pdf)  
-**How a UI/UX Redesign Boosted Interview Callbacks by 165%**  
+**How a UI/UX Redesign Boosted Interview Callbacks by 175%**  
 
 *iMohammed* challenges the limitations of generic website templates, delivering a **high-performance, immersive experience** in just **25 hours**. Developed with **HTML, CSS, and JavaScript**, this project prioritizes **speed, usability, and adaptability**—a seamless fusion of function and design.
+
+### [Uber's Verification](#)  
+After suggesting a feature to Uber, I noticed it was implemented just a couple of months later. While I can't confirm how directly my feedback contributed, the timing — and the fact that it matched my suggestion exactly — makes me believe it had an impact.
 
 ---
 
@@ -20,7 +29,7 @@
 ### [Fuel Cost & Efficiency: A Statistical & Machine Learning Approach to Driver's Decision-Making | Driver's Choice:  Qualitative and Quantitative Analysis](https://github.com/tech-moh-logy/Mohammed-Tiger-Data-Analysis/blob/main/Highlander-Data-Analysis/mohammedTiger.compareHighlanders.dataAnalysis.pdf)
 **Can a Hybrids/EVs Save $1,100,000+ on Fuel in Four Years?**  
 
-Two Uber drivers, Ahmed and Hossain, invest in a **2024 Toyota Highlander**—one hybrid, one gas-powered. With a **$5,900 price gap**, this analysis dissects their real-world fuel costs, long-term savings, and whether **hybrid technology truly pays off**. This data-driven comparative analysis of gas expenses and efficiency between Non-Hybrid and Hybrid Toyota Highlanders leverages predictive analytics to estimate potential savings. Our model forecasts up to $15,000 in gas cost reductions per driver over a 20-month period post-purchase, leading to an aggregated projected savings of $1,100,000+ across the driver cohort.
+An AI-driven, end-to-end data science solution built to transform how NYC taxi drivers select vehicles — maximizing fuel efficiency, boosting profitability, and reducing environmental impact. This project merges rigorous statistical validation with **advanced machine learning** to deliver real-world results. By developing an XGBoost model to forecast long-term fuel **cost savings** across hybrid, non-hybrid, and EV vehicles, and building a **full ML pipeline from data collection to deployment**, the system **achieved over $1.1M in economic value**, including $150K+ in **verified** fuel savings and up to $15K saved per driver over 20 months. With over 30 NYC taxi drivers influenced, the solution empowered more informed decision-making and encouraged sustainable practices. A **dynamic Streamlit dashboard** delivered real-time, personalized recommendations, while **statistical testing (t-tests, ANOVA)** confirmed significant differences in fuel efficiency. The project leveraged **Python, SQL, and Excel alongside tools like Streamlit, XGBoost, and scikit-learn**, and even explored experimental modeling with **TensorFlow and PyTorch**. By leveraging firsthand, **high-frequency data collected over ten weeks**, the **model avoided reliance on potentially outdated or generalized assumptions**. This ground-truth approach allowed for more accurate feature engineering, more nuanced training, and ultimately, a model that better reflects how people actually drive, spend, and decide in the real world.
 
 ---
 
