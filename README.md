@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/b60130c1-c795-463b-bc1b-a2a23a3c3218)
+
 <div align="center">
   <h1>UI/UX & Product Design | UX Research, Case Studies, and Writing Samples (Qualitative + Technical)</h1>
   <h3>Technical · Creative · Qualitative Writing</h3>
