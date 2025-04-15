@@ -9,7 +9,7 @@
 ## Contents
 1. [UI/UX Design Case Study – Personal Website](#): Boosted Interview Callbacks by 175%
 2. [Team JLL](#): Real Estate Price Prediction with XGBoost, Data Engineering, and Model Optimization
-3. [Uber's Update](#)
+3. [Uber's Update: UX Research Case Study](#): Got Implemented
 4. [Project Not Uploaded Yet](#)
 
 ---
@@ -21,7 +21,7 @@
 
 *iMohammed* challenges the limitations of generic website templates, delivering a **high-performance, immersive experience** in just **25 hours**. Developed with **HTML, CSS, and JavaScript**, this project prioritizes **speed, usability, and adaptability**—a seamless fusion of function and design.
 
-### [Uber's Update](#)  
+### [Uber's Update: UX Research Case Study](#)  
 After suggesting a feature to Uber, I noticed it was implemented just a couple of months later. While I can't confirm how directly my feedback contributed, the timing — and the fact that it matched my suggestion exactly — makes me believe it had an impact.
 
 <sub>[⬅ Back to Contents](#contents)</sub>
