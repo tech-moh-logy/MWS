@@ -7,38 +7,24 @@
 </div>
 
 ## Contents
-1. [UI/UX Design Case Study – Personal Website](#): Boosted Interview Callbacks by 175% :)
-2. [Uber's Update: UX Research Case Study](#): Yay! It got implemented!
-3. [Cold Email A/B Testing: UX Research Case Study](#): Pinpointing the most effective strategies for maximizing response rates.
-4. [Driver's Choice: Qualitative and Quantitative Analysis](#): A Statistical & Machine Learning Approach to Driver's Decision-Making
-5. Writing Samples - [Woodhaven: The Misunderstood Gem](#)
-6. Writing Samples - [Museum of Modern Art – A New Perspective](#)
 
+1. [Personal Website Redesign: 175% Increase in Interview Callbacks (UI/UX Case Study)](#)  
+   A UI/UX redesign that dramatically boosted callbacks by delivering a high-performance, user-centric experience.
 
-# UI/UX & Product Design | UX Research, Case Studies, and Writing Samples
+2. [Uber Update Implemented: User Research to Product Launch (UX Research Case Study)](#)  
+   A feature suggestion to Uber that was implemented shortly after submission, showcasing the real-world impact of user feedback on product development.
 
-Technical · Creative · Qualitative Writing  
-Two-Time Champion (Out of 390+)
+3. [Maximizing Cold Email Success: A/B Testing for Higher Response Rates (UX Research Case Study)](#)  
+   An experiment identifying key strategies through domain and subject line optimization to boost cold email response rates.
 
-## Contents
+4. [Driver's Choice: Statistical & Machine Learning Analysis of Taxi Driver Decisions](#)  
+   A study blending qualitative insights with predictive analytics to uncover decision-making patterns among NYC taxi drivers.
 
-- **UI/UX Design Case Study – Personal Website**  
-  How a UI/UX redesign boosted interview callbacks by 175% by delivering a high-performance, user-centric experience.
+5. [Writing Sample – *Woodhaven: The Misunderstood Gem*](#)  
+   A qualitative research and storytelling piece capturing the overlooked charm and complexity of a local neighborhood.
 
-- **UX Research Case Study: Uber's Update**  
-  A feature suggestion to Uber that was implemented shortly after submission, illustrating the impact of user feedback on product development.
-
-- **UX Research Case Study: Cold Email A/B Testing**  
-  An experiment to identify key strategies that maximize cold email response rates through domain and subject line optimization.
-
-- **Driver's Choice: Qualitative and Quantitative Analysis**  
-  A statistical and machine learning-based study into decision-making patterns among taxi drivers, combining qualitative insights with predictive analytics.
-
-- **Writing Samples – Woodhaven: The Misunderstood Gem**  
-  A qualitative research and storytelling piece focused on capturing the overlooked charm and complexity of a local neighborhood.
-
-- **Writing Samples – Museum of Modern Art – A New Perspective**  
-  An analysis and critique exploring user experience and accessibility within a globally recognized art institution.
+6. [Writing Sample – *Museum of Modern Art: A New Perspective*](#)  
+   An analysis and critique exploring user experience and accessibility at a globally recognized art institution.
 
 ---
 
