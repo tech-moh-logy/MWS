@@ -8,11 +8,11 @@
 
 ## Contents
 1. [UI/UX Design Case Study – Personal Website](#): Boosted Interview Callbacks by 175% :)
-2. [Uber's Update: UX Research Case Study](#): Got Implemented!
+2. [Uber's Update: UX Research Case Study](#): Yay! It got implemented!
 3. [Cold Email A/B Testing: UX Research Case Study](#): Pinpointing the most effective strategies for maximizing response rates.
 4. [Driver's Choice: Qualitative and Quantitative Analysis](#): A Statistical & Machine Learning Approach to Driver's Decision-Making
-5. [Woodhaven: The Misunderstood Gem](#)
-6. [Museum of Modern Art – A New Perspective](#)
+5. Writing Samples - [Woodhaven: The Misunderstood Gem](#)
+6. Writing Samples - [Museum of Modern Art – A New Perspective](#)
 
 ---
 
