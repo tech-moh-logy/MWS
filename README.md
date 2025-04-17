@@ -7,10 +7,12 @@
 </div>
 
 ## Contents
-1. [UI/UX Design Case Study – Personal Website](#): Boosted Interview Callbacks by 175%
-2. [Team JLL](#): Real Estate Price Prediction with XGBoost, Data Engineering, and Model Optimization
-3. [Uber's Update: UX Research Case Study](#): Got Implemented
-4. [Project Not Uploaded Yet](#)
+1. [UI/UX Design Case Study – Personal Website](#): Boosted Interview Callbacks by 175% :)
+2. [Uber's Update: UX Research Case Study](#): Got Implemented!
+3. [Cold Email A/B Testing: UX Research Case Study](#): Pinpointing the most effective strategies for maximizing response rates.
+4. [Driver's Choice: Qualitative and Quantitative Analysis](#): A Statistical & Machine Learning Approach to Driver's Decision-Making
+5. [Woodhaven: The Misunderstood Gem](#)
+6. [Museum of Modern Art – A New Perspective](#)
 
 ---
 
@@ -33,7 +35,7 @@ In my internship search, I conducted an **A/B test** to investigate the key fact
 
 ## **Technical Writing: Machine Learning and Research**
 
-### [Fuel Cost & Efficiency: A Statistical & Machine Learning Approach to Driver's Decision-Making | Driver's Choice:  Qualitative and Quantitative Analysis](https://github.com/tech-moh-logy/Data-AI/tree/main/Driver's%20Choice)
+### [Fuel Cost & Efficiency: A Statistical & Machine Learning Approach to Driver's Decision-Making | Driver's Choice: Qualitative and Quantitative Analysis](https://github.com/tech-moh-logy/Data-AI/tree/main/Driver's%20Choice)
 
 **Can a Hybrids/EVs Save $1,100,000+ on Fuel in Four Years?**  
 
