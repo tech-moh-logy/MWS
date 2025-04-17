@@ -14,6 +14,32 @@
 5. Writing Samples - [Woodhaven: The Misunderstood Gem](#)
 6. Writing Samples - [Museum of Modern Art – A New Perspective](#)
 
+
+# UI/UX & Product Design | UX Research, Case Studies, and Writing Samples
+
+Technical · Creative · Qualitative Writing  
+Two-Time Champion (Out of 390+)
+
+## Contents
+
+- **UI/UX Design Case Study – Personal Website**  
+  How a UI/UX redesign boosted interview callbacks by 175% by delivering a high-performance, user-centric experience.
+
+- **UX Research Case Study: Uber's Update**  
+  A feature suggestion to Uber that was implemented shortly after submission, illustrating the impact of user feedback on product development.
+
+- **UX Research Case Study: Cold Email A/B Testing**  
+  An experiment to identify key strategies that maximize cold email response rates through domain and subject line optimization.
+
+- **Driver's Choice: Qualitative and Quantitative Analysis**  
+  A statistical and machine learning-based study into decision-making patterns among taxi drivers, combining qualitative insights with predictive analytics.
+
+- **Writing Samples – Woodhaven: The Misunderstood Gem**  
+  A qualitative research and storytelling piece focused on capturing the overlooked charm and complexity of a local neighborhood.
+
+- **Writing Samples – Museum of Modern Art – A New Perspective**  
+  An analysis and critique exploring user experience and accessibility within a globally recognized art institution.
+
 ---
 
 ## **Product Design or UI/UX Design Case Study**
