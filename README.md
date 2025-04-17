@@ -24,6 +24,9 @@
 ### [Uber's Update: UX Research Case Study](#)  
 After suggesting a feature to Uber, I noticed it was implemented just a couple of months later. While I can't confirm how directly my feedback contributed, the timing — and the fact that it matched my suggestion exactly — makes me believe it had an impact.
 
+### [Cold Email A/B Testing: UX Research Case Study](#)  
+In my internship search, I conducted an **A/B test** to investigate the key factors influencing cold email response rates. I focused on two critical variables: **email domain** (college-affiliated, personal, and general-use) and the presence of **"US Citizen"** in the subject line. This experiment was designed to not only assess the impact on recruiter engagement but also provide actionable insights into how these elements drive both **response rates** and **response times**. By analyzing real-world data from over **100 cold emails**, I was able to pinpoint the most effective strategies for maximizing response rates and optimize my outreach efforts, demonstrating my ability to apply **UX research** principles to improve communication strategies.
+
 <sub>[⬅ Back to Contents](#contents)</sub>
 
 ---
