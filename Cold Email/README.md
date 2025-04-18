@@ -8,30 +8,72 @@ In my internship search, I wanted to experiment with the factors that might infl
 
 The aim was to determine which combination of **email domain** and **subject line** results in the highest likelihood of getting a reply from recruiters. I hypothesized that a college-affiliated domain and a well-defined subject line might improve engagement.
 
+## Hypotheses and Rationale
+
+- **.edu Domain Hypothesis**: I expected that using a college-affiliated `.edu` domain would improve credibility and legitimacy in the eyes of recruiters, increasing the likelihood of responses. Recruiters might associate `.edu` addresses with currently enrolled students and trust that outreach is genuine.
+- **"US Citizen" Subject Line Hypothesis**: Including "US Citizen" was hypothesized to speed up recruiter decision-making by immediately addressing a common qualification requirement, thus possibly improving response rates and reducing response time.
+
 ## Experiment Design
 
 ### Variables Tested
-1. **Email Domain**:  
-   Three different email domains were used to test their influence on recruiter behavior:
+
+1. **Email Domain**:
    - `.edu` (college-affiliated domain)
    - `@gmail.com` (personal email)
    - `@outlook.com` (general-use email)
 
-2. **Subject Line**:  
-   Two variations of the subject line were tested:
-   - **With "US Citizen"**: To assess whether explicitly mentioning citizenship status increases the likelihood of a reply.
-   - **Without "US Citizen"**: To serve as the baseline and compare the impact of including this detail.
+2. **Subject Line**:
+   - **With "US Citizen"**
+   - **Without "US Citizen"**
 
-### Setup
-- **Email Content**: The body of the email and the sending times were kept consistent across all groups to ensure that only the domain and subject line variations affected the response rate.
-- **Sample Size**: A total of **35–50 cold emails** were sent for each domain group, with each subject line variation tested in parallel.
-- **Metrics**:  
-   - **Reply Rate**: The percentage of responses received.
-   - **Time-to-Response**: The average number of hours it took for recruiters to reply.
+### Email Content
 
-## Results
+- **Body**: The body of the email remained consistent across all emails. It included:
+  - A brief personal introduction
+  - Relevant skills (technical and soft skills)
+  - Target internship roles (e.g., Software Engineering Intern, AI/ML Intern)
+  - A concise call to action asking for a referral or information about available internships
+- **Tone**: Professional and polite, while remaining approachable.
+- **Attachments**: No resume or additional files were attached to avoid spam filters.
 
-The table below summarizes the outcome of the A/B test:
+### Recruiter Targeting
+
+- **Industries**: Mainly Technology, Finance, and Consulting.
+- **Company Size**: Targeted mid-sized firms (200–2000 employees) and high-growth startups.
+- **Role Focus**: Recruiters who specifically mentioned internship or new grad opportunities in their LinkedIn title or job postings.
+
+### Sample Size and Sending Volume
+
+- Approximately **35–50 cold emails** were sent per domain group.
+- Both subject line variations were tested simultaneously within each domain group.
+
+### Timing Consistency
+
+- Emails were sent between **Tuesday and Thursday**, between **9:00 AM and 12:00 PM EST**, based on research suggesting recruiters are more responsive during these windows.
+
+### Tools Used
+
+- **Google Sheets** for tracking outreach and responses.
+- **Gmail** for sending emails manually to avoid spam flags.
+- **Mailtrack** (free version) to confirm when emails were opened.
+- **Filters** in Gmail to organize and monitor responses.
+
+## Data Structure (Excel-Like Format)
+
+| Recruiter Industry | Company Size | Email Domain | Subject Line Variant | Day Sent | Time Sent | Response (Y/N) | Time-to-Response (Hours) |
+|---------------------|--------------|--------------|----------------------|----------|-----------|----------------|---------------------------|
+| Technology          | 500          | .edu         | With US Citizen       | Tuesday  | 9:30 AM   | Yes            | 12                        |
+| Finance             | 1200         | .edu         | No US Citizen         | Wednesday| 10:15 AM  | Yes            | 19                        |
+| Consulting          | 300          | @gmail.com   | With US Citizen       | Thursday | 11:00 AM  | No             | -                         |
+| Technology          | 1500         | @outlook.com | No US Citizen         | Tuesday  | 9:45 AM   | No             | -                         |
+| Finance             | 700          | @gmail.com   | With US Citizen       | Wednesday| 10:45 AM  | Yes            | 20                        |
+| Technology          | 400          | .edu         | With US Citizen       | Thursday | 9:00 AM   | Yes            | 14                        |
+
+*(Sample rows above; full data tracked similarly)*
+
+---
+
+## Results Summary
 
 | Email Domain   | Subject Line: "US Citizen" | Reply Rate (%) | Avg. Time-to-Response (Hours) |
 |----------------|----------------------------|----------------|-------------------------------|
@@ -42,27 +84,80 @@ The table below summarizes the outcome of the A/B test:
 | @outlook.com   | Yes                        | 13%            | 25 hours                      |
 | @outlook.com   | No                         | 11%            | 27 hours                      |
 
+---
+
 ## Insights
 
-1. **Impact of Domain**:  
-   - **.edu** domains consistently outperformed the others, yielding the highest reply rates and the quickest responses. This suggests that recruiters might perceive emails from academic institutions as more credible or relevant.
-   - **@gmail.com** domains also performed reasonably well, particularly when paired with the “US Citizen” subject line. However, the response rate was still lower than `.edu`.
-   - **@outlook.com** showed the lowest reply rates, indicating that this domain may be less recognizable or perceived as less professional in the context of cold emailing for internships.
+### Impact of Domain
 
-2. **Impact of Subject Line**:  
-   - The inclusion of "US Citizen" in the subject line led to a **modest increase** in the reply rate across all domains. However, the most significant improvement was observed with `.edu` emails.
-   - Adding “US Citizen” also resulted in a slight reduction in **time-to-response**, suggesting that recruiters might prioritize applicants who clearly align with specific criteria such as citizenship status.
+- `.edu` domains consistently outperformed others in both reply rates and response speed.
+- Recruiters might perceive `.edu` addresses as signals of legitimacy, current enrollment, and readiness for internships.
+- `@gmail.com` performed reasonably well but was still behind `.edu`.
+- `@outlook.com` had the lowest engagement, possibly due to lower association with professional or academic credibility.
 
-## Conclusion
+### Impact of Subject Line
 
-This experiment demonstrated that both **email domain** and **subject line** can significantly influence cold email outcomes. A college-affiliated domain, particularly `.edu`, was the most successful in terms of both reply rate and response time. Including “US Citizen” in the subject line also improved engagement, but this effect was more pronounced when paired with the `.edu` domain.
-
-These findings underscore the importance of **strategically tailoring** email outreach to improve the likelihood of receiving a response. Additionally, the experiment provided insights into the behaviors of recruiters and their potential preferences regarding email domains and subject lines.
-
-## Skills and Methodology
-
-This project highlights my ability to conduct **A/B testing** with multiple variables, analyze data from real-world applications, and optimize cold email outreach strategies. It also demonstrates my understanding of **user behavior analysis**, where the goal is not only to apply but to also **measure and refine** methods for better outcomes.
+- Including "US Citizen" improved reply rates slightly across all domains.
+- The effect was strongest for `.edu` addresses.
+- Time-to-response also slightly decreased when "US Citizen" was included, suggesting recruiters might prioritize easy-to-qualify candidates.
 
 ---
 
-By performing this experiment, I refined my internship application strategy and gained valuable insights into **cold email effectiveness** and **recruiter preferences**. This research will continue to inform my approach as I apply for future opportunities.
+## Further Analysis
+
+### Statistical Significance
+
+- Due to the small sample size (~35–50 emails per variation), results are indicative but not statistically significant.
+- Larger-scale testing would be necessary to establish robust conclusions.
+
+### Cost-Benefit Reflection
+
+- **Time Invested**: ~10 hours across several weeks preparing emails, targeting recruiters, and tracking responses.
+- **Benefits**:
+  - Multiple interview opportunities gained directly from cold emails.
+  - Improved cold email templates and personalization strategies.
+  - Greater understanding of recruiter behavior.
+
+### Unexpected Findings
+
+- Some recruiters responded even without "US Citizen" in the subject line, emphasizing that email content clarity and relevance also play crucial roles.
+- A few responses came much later (2–5 days after sending), indicating that initial non-responses do not always imply rejection.
+
+### Limitations
+
+- Sample pool limited mainly to tech, finance, and consulting industries.
+- Mostly focused on mid-sized companies; not enough large enterprise or very small startup samples.
+- Timing bias: Sending during business hours only; no weekend or late-night testing.
+- No follow-up emails were sent, which could have influenced final reply rates.
+
+---
+
+## Future Directions and Application
+
+### Next Steps
+
+- Test personalization levels (e.g., mentioning specific company initiatives or recruiter posts).
+- Experiment with different subject line styles (e.g., "Internship Inquiry - Software Engineer" vs. "Seeking Internship - US Citizen - AI/ML").
+- Include controlled follow-up sequences to measure second-attempt effectiveness.
+- Analyze responses by recruiter seniority (e.g., senior recruiter vs. junior recruiter).
+
+### Broader Implications
+
+- Findings suggest that **signal quality** (e.g., domain, keywords like "US Citizen") matters significantly in outreach.
+- Strategic structuring of cold emails can boost visibility and response even without prior connections.
+
+### Impact on My Job Search
+
+- Based on these insights, I have prioritized using my `.edu` email for cold outreach whenever possible.
+- I also incorporate important eligibility information in the subject or first line of my emails when relevant.
+- These changes have contributed directly to a higher number of positive recruiter responses and interview invitations during my internship search.
+
+---
+
+# Summary
+
+This project highlights my ability to:
+- Conduct real-world A/B testing with controlled variables.
+- Apply user behavior analysis techniques outside a purely technical environment.
+- Optimize communication strategies based on data-driven insights.
+- Reflect critically on results, acknowledge limitations, and plan for continuous improvement.
